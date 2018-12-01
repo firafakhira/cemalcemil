@@ -1,0 +1,88 @@
+{
+	"MalMilFood":[
+		{
+			"Nama":"Lupis",
+			"Deskripsi" : "Kue lupis ketan merupakan kue nusantara dengan ciri khas berbentuk segitiga, bertekstur agak kenyal/legit dan disiram dengan sirup gula merah sehingga rasanya manis. ",
+			"Harga" : "Rp5000"
+		},
+		{
+			"Nama" : "Martabak",
+			"Deskripsi" : "Martabak manis adalah sejenis kue atau roti isi selai yang biasa dimakan di saat santai sebagai makanan ringan.",
+			"Harga" : "Rp18000"
+		},
+		{
+			"Nama":"Siomay",
+			"Deskripsi" : "Hmm Yummy, mungkin kalimat itu yang bisa menggambarkan bagaimana rasanya siomay dimulut. makananberbentuk bulat kenyal berisi ikan, disiram bumbu kacang dan kecap menjadi salah satu makanan favourite di Tanah Air.",
+			"Harga" :"Rp5000"
+		},
+		{
+			"Nama" : "Cimol",
+			"Deskripsi" : "Cimol alias aci digemol (tepung kanji dibentuk bulat-bulat) merupakan jajanan khas Tasikmalaya yang pertama kali terkenal di Bandung. Jajanan yang satu ini membuat orang ketagihan untuk membelinya. Bentuk yang bulat, rasa yang enak dan gurih, kenyal-kenyal digigit disukai oleh anak-anak maupun orang tua sekalipun.",
+			"Harga": "Rp5000"
+		},
+		{
+			"Nama" : "Cimin",
+			"Deskripsi" : "Ciminmerupakan jajanan khas yang bahan utamanya aci juga, namun bentuknya dipotong kotak-kotak kecil. Cimin alias cireng/aci mini dibuat dengan cara digoreng, lalu ditambahkan telur kocok diatasnya. setelah matang, dimasukkan ke dalam toples plastik, kemudian ditaburi bubuk keju, bubuk cabe, sesuai selera, lalu diaduk-aduk dengan sendok sampai semua bumbu merata",
+			"Harga" :"Rp5000"
+		},
+		{
+			"Nama" : "Sosis Bakar",
+			"Deskripsi" : "Sosis bakar saat ini sangat digemari oleh banyak orang. Stand penjual sosis bakar sekarang dapat dengan mudah ditemui dimanapun. Tidak hanya daging ikan ataupun daging ayam, akan tetapi saat ini sosis kerap menjadi daging pilihan untuk disajikan dengan cara dibakar.",
+			"Harga" : "RP10000"
+		},
+		{
+			"Nama" :"Surabi",
+			"Deskripsi" :"Surabi adalah jajanan pasar tradisional khas Indonesian. Di Bandung, serabi biasa dijajakan di pagi hari dan dimasak menggunakan tungku sehingga menghasilkan rasa yang khas. Ayo kaumla muda order dulu makanan ke bandungan yang satu ini.",
+			"Harga":"RP10000"
+		},
+		{
+			"Nama" :"Tahu Sumedang",
+			"Deskripsi" :"Kemana pun Anda pergi, Tahu Sumedang cemilannya. Pergi ke terminal,stasiun,pelabuhan pasti ada tahu sumedang. Crispy yang melekat di atasnya membuat semua orang ingin mengunyahnya.",
+			"Harga" :"Rp5000"
+		}
+
+	],
+
+	"MalMilIce":[
+		{
+			"Nama" :"Es Doger",
+			"Deskripsi":"Minuman asal Cirebon ini diracik khusus dengan memanfaatkan bahan-bahan alami. Bahan yang digunakan adalah serutan kelapa, susu, tape dan gula. Es dorong gerobak pasti bisa menjadi pelepas dahaga. Rasa dingin seakan memberikan efek basah pada tenggorokan, dan tentunya sangat sesuai bila dinikmati di siang hari",
+			"Harga" :"Rp5000"
+		},
+		{
+			"Nama":"Sop Buah",
+			"Deskripsi" :"Es Sop buah bukan minuman asing lagi bagi Indonesian, terutama yang tinggal didaerah Bandung dan sekitarnya, bahkan es sop buah ini juga sudah bisa diperdapatkan di kota-kota besar seperti Medan, Banda Aceh dll. Sop buah bukanlah minuman seperti kuah sop, melainkan campuran beberapa jenis buah-buahan yang ramu sedimikian rupa, tentu tanpa proses masak memasak seperti pada membat kuah sop. Selain mengandung buah-buahan yang pastinya bagus untuk kesehatan, sop buah ini pas untuk melawan lapar unutuk para pejuang diet. Yuk semuanya di order Sop Buahnya, apalagi buat kamu yang lagi diet.",
+			"Harga" : "RP10000"
+		},
+		{
+			"Nama" :"Es Cincau",
+			"Deskripsi" :"Es yang berisi gel serupa agar-agar yang diperoleh dari perendaman daun (atau organ lain) tumbuhan tertentu dalam air mampu menghilangkan penyakit tenggorokan.Cincau paling banyak digunakan sebagai komponen utama minuman penyegar (misalnya dalam es cincau atau es campur). Dilaporkan juga cincau memiliki efek penyejuk serta peluruh.",
+			"Harga":"Rp5000"
+		},
+		{
+			"Nama":"Susu KPBS",
+			"Deskripsi" :"Susu kemasan dari Bandung Selatan kiranya sudah dikenal luas oleh warga Bandung dengan produk dagang susu KPBS-nya. Produk susu KPBS ini hanya berupa susu murni dalam kemasan plastik. Uniknya susu KPBS ini disarankan untuk menikmati susu ini dalam kondisi dingin. Ayo orang Bandung, masa belum nyoba susu ini.",
+			"Harga" :"Rp3000"
+		},
+		{
+			"Nama":"Es Buah",
+			"Deskripsi" :"Istilah makanan segar ini dimulai dari kota Bandung. Dipopulerkan oleh seorang bapak-bapak yang nongkrong sehari-hari dengan barang dagangannya di Gedung Sate. Pak Ewok adalh penemunya, beliau mulai menjual Es Buah racikan diri sendiri di belakang Gedung Sate pada tahun 90an. Ayo warganet Bandung order Es asal Bandung ini.",
+			"Harga":"RP10000"
+		},
+		{
+			"Nama": "Es kelapa",
+			"Deskripsi" :"Air kelapa tida hanya nikmat diminum bersama dagingnya,apalagiditambah es dan sirup didalamnya. Konon katanya banyak atlet yang mengonsumsi cairan ini untuk menggantikan cairan tubuhnya, sedangkan selebritis mengonsumsiminuman ini sebagai minuman pelangsing badannya. Yuk kaumla muda kita ganti cairan tubuh dan langsing bersama dengan Es Kelapa.",
+			"Harga":"RP10000"
+		},
+		{
+			"Nama":"Es Krim",
+			"Deskripsi":"Es krim adalah sebuah makanan beku yang dibuat dari produk susu seperti krim (atau sejenisnya), digabungkan dengan perasa dan pemanis. Campuran ini didinginkan dengan mengaduk sambil mengurangi suhunya untuk mencegah pembentukan kristal es besar. Sudah bukan rahasia umum lagi bahwa Es Krim adalah makanan kesukaan semua umur, apalagi anak-anak.",
+			"Harga":"Rp18000"
+		},
+		{
+			"Nama":"Es Serut",
+			"Deskripsi":"Tahukah Anda bahwa ada seorang pemuda yang tidak sengaja menyerut es lalu diberi sirup dan terasa enak saat dicoba.Dan kemudian dia menjual es serut tersebut? Jika Anda baru tahu,ya itulah sejalah Es Serut. Es Serut terkenal akan kesegaran maksimal pada saat sampai di mulut. Gimana tidak, hampir semua komponen Es Serut adalah es. Gerutuk-gerutuk bunyi es yang dikunyah mampu membuat semua orang menyeceskan air liur mereka. Yakin ni gamau order?",
+			"Harga":"Rp5000"
+		}
+	]
+}
